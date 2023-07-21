@@ -1,3 +1,4 @@
-# cpSheet
-- here I store all of my cp Code which I practice from Striver CP Sheet
-- Striver CP Sheet link : https://takeuforward.org/interview-experience/strivers-cp-sheet/
+<h1 align="center">Upsolve </h1>
+<hr>
+<p align="center">
+Public repository containing my competitive programming solutions, where I upsolve Codeforces and CodeChef problems for practice and skill enhancement.</p>
